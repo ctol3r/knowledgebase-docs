@@ -69,3 +69,8 @@ We believe that credentials are most useful when they are interoperable across s
 Begin your journey with digital identity by signing up and start issuing verifiable credentials.
 
 <table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>Sign up</td><td><a href=".gitbook/assets/105.jpg">105.jpg</a></td><td><a href="https://certs.dock.io/">https://certs.dock.io/</a></td></tr><tr><td>Issue Verifiable Credentials</td><td><a href=".gitbook/assets/104.jpg">104.jpg</a></td><td><a href="workspace/issue-verifiable-credentials/">issue-verifiable-credentials</a></td></tr><tr><td>See API docs</td><td><a href=".gitbook/assets/103.jpg">103.jpg</a></td><td><a href="truvera-api/">truvera-api</a></td></tr></tbody></table>
+
+## Open Source and Contributing
+
+We welcome community contributions to these docs. See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines and check the [Open source community](open-source-community/README.md) section for additional resources.
+
